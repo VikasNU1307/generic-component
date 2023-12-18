@@ -104,9 +104,6 @@ Welcome to the Component Library! This library provides a set of reusable UI com
 - [ ] Task Checklist: Description and usage information.
 - [ ] Interactive Checklist: Description and usage information.
 
-## Usage
-
-Include instructions on how to install and use the components in your project.
 
 ## Contributing
 
