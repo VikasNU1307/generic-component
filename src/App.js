@@ -1,9 +1,11 @@
 
 import './App.css';
-import Filters from './components/filters';
+// import Filters from './components/filters';
 import React, { useState } from 'react';
 import Checkbox from './components/CheckBox';
-import home from './components/home';
+// import home from './components/home';
+import Data from './components/Forms/Data';
+import Pagination from './components/Paginations/Pagination';
 function App() {
   
 
@@ -26,7 +28,8 @@ function App() {
       </div>
     </div>
     </div>
-     
+     <Data/>
+     <Pagination/>
     </div>
   );
 }
