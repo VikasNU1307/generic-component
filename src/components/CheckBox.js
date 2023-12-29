@@ -1,6 +1,6 @@
 import Form from 'react-bootstrap/Form';
 import React, { useState } from 'react';
-function CheckApiExample(props) {
+function Checkbox(props) {
     const label = props.value;
     const [checkboxValid, setCheckboxValid] = useState(false);
 
@@ -41,4 +41,4 @@ function CheckApiExample(props) {
   );
 }
 
-export default CheckApiExample;
+export default Checkbox;
